@@ -3,7 +3,7 @@
 # Installation
 
 Go to the dino game. It can be accessed by going to: ```chrome://dino```. Next right click and select inspect element or click CTRL + Shift + I, and navigate to console.
-Next, just paste the script in. 
+Next, just paste the script in. **Make sure to click ENTER.**
 
 
 # Fly 1
